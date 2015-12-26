@@ -1,11 +1,9 @@
 #ifndef COLORS_IN
 #define COLORS_IN
 
-#include <string>
 #include <ostream>
 #include "windows.h"
 
-using std::string;
 using std::ostream;
 
 // Color table
